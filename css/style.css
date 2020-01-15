@@ -42,9 +42,9 @@ img {
     justify-content: center;
 }
 
-.site-nav {
+/*.site-nav {
     display: flex;
-}
+}*/
 
 .site-nav .link {
     display: block;
@@ -70,9 +70,9 @@ img {
     margin: 0;
     margin-bottom: 130px;
 }
-.text:last-child {
+
+.list :last-child {
     margin: 0;
-    margin-bottom: 0px;
 }
 
 h2 {
@@ -91,10 +91,16 @@ h2 {
     cursor: pointer;
     font-size: 20px;
     line-height: 0.83;
+    margin: 60px;
 }
 
 .container {
     width: 900px;
+}
+
+.point {
+    display: inline-flex;
+    justify-content: center;
 }
 
 .content {
