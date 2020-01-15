@@ -98,17 +98,13 @@ h2 {
 }
 
 .content {
-    width: 50%;
+    width: 45%;
     margin-right: 60px;
 }
 .content:nth-child(2n) {
     margin-right: 0px;
 }
 
-.page-content {
-    display: flex;
-    flex-wrap: wrap;
-}
 /*
  font-family: 'Ubuntu', sans-serif;
 font-family: 'Playfair Display', serif;
