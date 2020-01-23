@@ -91,8 +91,8 @@ h2 {
     cursor: pointer;
     font-size: 20px;
     line-height: 0.83;
-    margin-left: 400px;
-    margin-top: 40px;
+    display: block;
+    margin: 0 auto;
 }
 
 .container {
@@ -101,10 +101,10 @@ h2 {
     margin-right: auto;
 }
 
-.point {
+/*.point {
     display: inline-flex;
     justify-content: center;
-}
+}*/
 
 .content {
     width: 45%;
